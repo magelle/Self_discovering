@@ -1,6 +1,24 @@
 # SelfDiscovering
 
-**TODO: Add description**
+Small project to show how it is possible to do service discovery (a very simple) with Elixir.
+
+Each "service" wil register itself by creating a file in __/tmp/sync_dir/__.
+Then each service will loop through all service then ping it and log either the services are up or no.
+
+## Run
+
+To run the project open __two_ terminals : 
+ - Run ```./run_a1.sh``` in the first.
+ - Execute ```SelfDiscovering.loop()```.
+ - Run ```./run_a2.sh``` in the second.
+ - Execute ```SelfDiscovering.loop()```.
+
+You should see this :
+```
+15:20:42.854 [info]  a1@kata[a3@kata: false, a2@kata: true, a1@kata: true]
+
+15:20:43.856 [info]  a1@kata[a3@kata: false, a2@kata: true, a1@kata: true]
+```
 
 ## Installation
 
