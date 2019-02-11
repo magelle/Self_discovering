@@ -20,6 +20,10 @@ You should see this :
 15:20:43.856 [info]  a1@kata[a3@kata: false, a2@kata: true, a1@kata: true]
 ```
 
+## Credits
+
+All the credits of the solution goes to GuyY [https://www.spectory.com/blog/Elixir%20Self%20Discovering%20Cluster](https://www.spectory.com/blog/)
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
