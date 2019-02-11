@@ -22,7 +22,7 @@ You should see this :
 
 ## Credits
 
-All the credits of the solution goes to GuyY [https://www.spectory.com/blog/Elixir%20Self%20Discovering%20Cluster](https://www.spectory.com/blog/)
+All the credits of the solution goes to GuyY [https://www.spectory.com/blog/](https://www.spectory.com/blog/Elixir%20Self%20Discovering%20Cluster)
 
 ## Installation
 
